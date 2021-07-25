@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web developement
 - 🌱 I’m currently learning Full stack developement
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach ......
+- 📫 How to reach me......
 Email- takadhiraj@gmail.com
 
 
